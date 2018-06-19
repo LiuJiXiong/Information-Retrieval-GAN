@@ -1,6 +1,4 @@
-# Implement IRAGN using without tensorflow's automatic derivation of several gardients.
-Implement IRAGN using without tensorflow's automatic derivation of several gardients.
-#
+# Implementation IRAGN with manual gradients' derivation.
 IRGAN: The first version of rewrite, but there are some bugs,so don't need to check it.
 IRGAN-multiprocessing：using multi process to get higher speed，
 						meanwhile, there is a method that init the Gen model.
