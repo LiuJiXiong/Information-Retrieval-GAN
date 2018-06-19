@@ -1,4 +1,4 @@
-# Implementation IRAGN with manual gradients' derivation.
+### Implement IRAGN with manual gradients' derivation.
 IRGAN: The first version of rewrite, but there are some bugs,so don't need to check it.
 IRGAN-multiprocessing：using multi process to get higher speed，
 						meanwhile, there is a method that init the Gen model.
