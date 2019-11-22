@@ -1,0 +1,1 @@
+BASELINE: the method to initalize the Gen model before GAN
