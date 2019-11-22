@@ -9,4 +9,4 @@ I derived the details of the algorithm **IRGAN: A Minimax Game for Unifying Gene
 ## How to start?
 	python Main.py
 
-Last updata date: November 22, 2019.
+Last updated date: November 22, 2019.
